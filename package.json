@@ -1,0 +1,16 @@
+{
+    "name": "com.linqtogameobject",
+    "version": "0.0.1",
+    "displayName": "LINQtoGameObject",
+    "description": "follow https://github.com/neuecc/LINQ-to-GameObject-for-Unity/ and package as upm",
+   "keywords": [
+      "unity",
+      "linq",
+      "gameObject"
+    ],
+    "author": {
+      "name": "neuecc",
+      "url": "https://github.com/neuecc/LINQ-to-GameObject-for-Unity/"
+    }
+  }
+  
